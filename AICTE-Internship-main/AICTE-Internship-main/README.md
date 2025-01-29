@@ -76,26 +76,6 @@ Verifies if **MediaPipe** is correctly installed and working.
 
 ---
 
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/akshaysenn-aicte-internship.git
-   cd akshaysenn-aicte-internship
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
-   ```bash
-   streamlit run Estimation_app.py
-   ```
-
----
-
 ## 🚀 How to Use
 
 ### Pose Estimation (Image)
@@ -129,12 +109,3 @@ Verifies if **MediaPipe** is correctly installed and working.
 
 ---
 
-## 📞 Contact
-
-For any queries, reach out at:  
-- Email: `theakshaysen.com`
-- LinkedIn: [Akshay Sain](https://www.linkedin.com/in/akshaysenn)
-
----
-
-Happy Coding! 🎉
