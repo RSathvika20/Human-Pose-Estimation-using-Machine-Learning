@@ -6,7 +6,7 @@ Welcome to the AICTE Internship repository! This project focuses on human pose e
 ## 📂 Directory Structure
 
 ```
-└── akshaysenn-aicte-internship/
+└── aicte-internship/
     ├── README.md            # Project documentation
     ├── Estimation_app.py    # Streamlit app for human pose estimation
     ├── Module2-Image.py     # Pose estimation on a static image using MediaPipe
